@@ -14,44 +14,45 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["EID_Fresh"],
         "price": 0
     },
     "daily2": {
-      "itemGrants": [ "CID_TBD"],
-        "price": 0
+      "itemGrants": [ "CID_431_Athena_Commando_F_StormPilot"],
+        "price": 800
     },
     "daily3": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["Pickaxe_ID_363_LollipopTricksterFemale"],
+        "price": 1000
     },
     "daily4": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["EID_WaveDance"],
+        "price": 500
     },
     "daily5": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["ID: Glider_ID_097_Feathers
+"],
+        "price": 500
     },
     "daily6": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["Pickaxe_ID_599_CavernFemale"],
         "price": 0
     },
     "featured1": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_A_005_Athena_Commando_F_GlobalFB_E_GTH5I"],
+        "price": 2000
     },
     "featured2": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_A_365_Athena_Commando_F_FNCS_Blue"],
+        "price": 1500
     },
     "featured3": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_818_Athena_Commando_F_NeonTightSuit_A"],
+        "price": 2000
     },
     "featured4": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA"],
+        "price": 3000
     }   
 }
 ```
