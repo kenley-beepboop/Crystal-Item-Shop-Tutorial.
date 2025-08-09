@@ -14,44 +14,44 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_913_Athena_Commando_F_York_D"],
+        "price": 500
     },
     "daily2": {
-      "itemGrants": [ "CID_TBD"],
+      "itemGrants": [ "CID_584_Athena_Commando_M_Nosh"],
         "price": 0
     },
     "daily3": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["Pickaxe_ID_202_AshtonBoardwalk"],
+        "price": 500
     },
     "daily4": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["Pickaxe_ID_015_HolidayCandyCane"],
+        "price": 800
     },
     "daily5": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["EID_GabbyHipHop_01"],
+        "price": 500
     },
     "daily6": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["EID_PlayerEleven"],
+        "price": 500
     },
     "featured1": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_478_Athena_Commando_F_WorldCup"],
+        "price": 500
     },
     "featured2": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_892_Athena_Commando_F_VampireCasual"],
+        "price": 1200
     },
     "featured3": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_786_Athena_Commando_F_CavalryBandit_Ghost"],
+        "price": 800
     },
     "featured4": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_386_Athena_Commando_M_StreetOpsStealth"],
+        "price": 2000
     }   
 }
 ```
